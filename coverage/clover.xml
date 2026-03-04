@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1772661559159" clover="3.2.0">
+  <project timestamp="1772661559159" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="1" methods="8" coveredmethods="8" elements="25" coveredelements="24" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+    <file name="TodoListManager.tsx" path="/Users/ren/Documents/CS/csb340/UnitTestJest/my-app/src/components/TodoListManager.tsx">
+      <metrics statements="15" coveredstatements="15" conditionals="2" coveredconditionals="1" methods="8" coveredmethods="8"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="8" type="stmt"/>
+      <line num="11" count="8" type="stmt"/>
+      <line num="13" count="8" type="stmt"/>
+      <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="20" count="8" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="24" count="8" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="35" count="8" type="stmt"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="46" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
